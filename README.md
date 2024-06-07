@@ -1,1 +1,3 @@
 # TMA4320_DictionaryLearning
+
+In our 4th semester, Stian Mæhre, Casper Lindeman and I worked on a project about dictionary learning for classification problems, that is, making the model recognise numbers based on the training sample. Dictionary learning is used to train AI models, and is based on creating a base (disctionary) for the AI model to make a projection on that base. The greater the span of the base, the better. However, such large bases can take much computational power. We therefore used truncation methods to maximise the trade-off between minimising the required computation power and maximisnig the accuracy of the model. 
